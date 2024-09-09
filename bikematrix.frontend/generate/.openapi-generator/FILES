@@ -1,0 +1,10 @@
+apis/BikesApi.ts
+apis/index.ts
+index.ts
+models/BikeCreateDTO.ts
+models/BikeDTO.ts
+models/BikeUpdateDTO.ts
+models/BrandDTO.ts
+models/OwnerDTO.ts
+models/index.ts
+runtime.ts

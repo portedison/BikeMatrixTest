@@ -1,0 +1,6 @@
+@BikeMatrix.API_HostAddress = http://localhost:5119
+
+GET {{BikeMatrix.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
